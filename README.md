@@ -1,2 +1,2 @@
-# maximilien_naveau.github.io
+# MaximilienNaveau.github.io
 Personal Web Site
